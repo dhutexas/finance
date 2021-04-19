@@ -86,7 +86,7 @@ dbWriteTable(con, SQL('equities'), equities, overwrite=T)
 dbWriteTable(con, SQL('current'), current, overwrite=T)
 
 # open current and info tables, merge to create current holdings with industry info, upload to sheets
-equity_info = dbReadTable(con, SQL('yahoo.sp500')) %>%
+equity_info = dbReadTable(con, SQL('public.equity_info')) %>%
   select(symbol, sector, industry, country, quoteType) %>%
   distinct()
 
