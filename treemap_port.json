@@ -1,0 +1,401 @@
+{
+    "name": "treemap",
+    "children": [
+        {
+            "format": "digital",
+            "children": [
+                {
+                    "name": "ADA",
+                    "value": 106.32
+                },
+                {
+                    "name": "ALPACA",
+                    "value": 1.0
+                },
+                {
+                    "name": "BNB",
+                    "value": 515.96
+                },
+                {
+                    "name": "BTC",
+                    "value": 3916.75
+                },
+                {
+                    "name": "CRO",
+                    "value": 389.77
+                },
+                {
+                    "name": "DAI",
+                    "value": 430.63
+                },
+                {
+                    "name": "ETH",
+                    "value": 932.29
+                },
+                {
+                    "name": "ICP",
+                    "value": 131.84
+                },
+                {
+                    "name": "LINK",
+                    "value": 124.52
+                },
+                {
+                    "name": "MATIC",
+                    "value": 195.32
+                },
+                {
+                    "name": "MINA",
+                    "value": 101.08
+                },
+                {
+                    "name": "MINERS",
+                    "value": 72.48
+                },
+                {
+                    "name": "NEXO",
+                    "value": 139.22
+                },
+                {
+                    "name": "ONE",
+                    "value": 263.8
+                },
+                {
+                    "name": "SOL",
+                    "value": 399.12
+                },
+                {
+                    "name": "USDC",
+                    "value": 234.39
+                },
+                {
+                    "name": "USDT",
+                    "value": 60.0
+                }
+            ]
+        },
+        {
+            "format": "equity",
+            "children": [
+                {
+                    "name": "AAPL",
+                    "value": 1796.82
+                },
+                {
+                    "name": "ABBV",
+                    "value": 55.23
+                },
+                {
+                    "name": "ABNB",
+                    "value": 1087.99
+                },
+                {
+                    "name": "ADM",
+                    "value": 327.2
+                },
+                {
+                    "name": "AFRM",
+                    "value": 404.64
+                },
+                {
+                    "name": "BRK-B",
+                    "value": 2061.43
+                },
+                {
+                    "name": "BX",
+                    "value": 2951.51
+                },
+                {
+                    "name": "CASY",
+                    "value": 389.16
+                },
+                {
+                    "name": "CHPT",
+                    "value": 161.93
+                },
+                {
+                    "name": "COST",
+                    "value": 1651.11
+                },
+                {
+                    "name": "CTVA",
+                    "value": 464.4
+                },
+                {
+                    "name": "CVNA",
+                    "value": 165.18
+                },
+                {
+                    "name": "DG",
+                    "value": 553.33
+                },
+                {
+                    "name": "ELY",
+                    "value": 27.01
+                },
+                {
+                    "name": "ETSY",
+                    "value": 85.31
+                },
+                {
+                    "name": "F",
+                    "value": 40.5
+                },
+                {
+                    "name": "FAST",
+                    "value": 312.95
+                },
+                {
+                    "name": "FB",
+                    "value": 704.34
+                },
+                {
+                    "name": "FDX",
+                    "value": 380.73
+                },
+                {
+                    "name": "INTU",
+                    "value": 272.08
+                },
+                {
+                    "name": "JPM",
+                    "value": 1111.04
+                },
+                {
+                    "name": "KO",
+                    "value": 12.65
+                },
+                {
+                    "name": "MA",
+                    "value": 360.58
+                },
+                {
+                    "name": "MCD",
+                    "value": 531.9
+                },
+                {
+                    "name": "MSFT",
+                    "value": 2759.18
+                },
+                {
+                    "name": "PEP",
+                    "value": 629.37
+                },
+                {
+                    "name": "PLTR",
+                    "value": 94.65
+                },
+                {
+                    "name": "RIVN",
+                    "value": 774.72
+                },
+                {
+                    "name": "SBUX",
+                    "value": 1178.1
+                },
+                {
+                    "name": "SEE",
+                    "value": 24.78
+                },
+                {
+                    "name": "SHOP",
+                    "value": 76.28
+                },
+                {
+                    "name": "SNOW",
+                    "value": 528.72
+                },
+                {
+                    "name": "SOFI",
+                    "value": 1871.16
+                },
+                {
+                    "name": "TGT",
+                    "value": 3054.26
+                },
+                {
+                    "name": "TRI",
+                    "value": 233.72
+                },
+                {
+                    "name": "TRMB",
+                    "value": 172.22
+                },
+                {
+                    "name": "UPS",
+                    "value": 636.57
+                },
+                {
+                    "name": "UPST",
+                    "value": 148.14
+                },
+                {
+                    "name": "V",
+                    "value": 433.24
+                },
+                {
+                    "name": "WM",
+                    "value": 324.69
+                },
+                {
+                    "name": "XYL",
+                    "value": 117.5
+                }
+            ]
+        },
+        {
+            "format": "etf",
+            "children": [
+                {
+                    "name": "BITO",
+                    "value": 646.8
+                },
+                {
+                    "name": "FTEC",
+                    "value": 1662.64
+                },
+                {
+                    "name": "MGK",
+                    "value": 4821.46
+                },
+                {
+                    "name": "SCHA",
+                    "value": 1124.12
+                },
+                {
+                    "name": "SPY",
+                    "value": 9418.67
+                },
+                {
+                    "name": "VB",
+                    "value": 450.36
+                },
+                {
+                    "name": "VEA",
+                    "value": 397.87
+                },
+                {
+                    "name": "VGK",
+                    "value": 1275.86
+                },
+                {
+                    "name": "VGT",
+                    "value": 1246.4
+                },
+                {
+                    "name": "VOO",
+                    "value": 26242.83
+                },
+                {
+                    "name": "VT",
+                    "value": 1415.48
+                },
+                {
+                    "name": "VTI",
+                    "value": 22361.87
+                },
+                {
+                    "name": "VTWO",
+                    "value": 716.24
+                }
+            ]
+        },
+        {
+            "format": "home",
+            "children": [
+                {
+                    "name": "Home",
+                    "value": 94893.63
+                }
+            ]
+        },
+        {
+            "format": "metal",
+            "children": [
+                {
+                    "name": "GOLD",
+                    "value": 908.9
+                },
+                {
+                    "name": "SILVER",
+                    "value": 460.4
+                }
+            ]
+        },
+        {
+            "format": "mutualfund",
+            "children": [
+                {
+                    "name": "FXAIX",
+                    "value": 7456.86
+                },
+                {
+                    "name": "IRGFX",
+                    "value": 1156.17
+                },
+                {
+                    "name": "RPTTX",
+                    "value": 1371.3
+                },
+                {
+                    "name": "SNXFX",
+                    "value": 2924.04
+                },
+                {
+                    "name": "SWPPX",
+                    "value": 2883.29
+                },
+                {
+                    "name": "SWTSX",
+                    "value": 4139.17
+                },
+                {
+                    "name": "VFIAX",
+                    "value": 1247.05
+                },
+                {
+                    "name": "VIGIX",
+                    "value": 665.25
+                },
+                {
+                    "name": "VSCIX",
+                    "value": 151.21
+                },
+                {
+                    "name": "VSGIX",
+                    "value": 146.3
+                },
+                {
+                    "name": "VTWIX",
+                    "value": 153.96
+                }
+            ]
+        },
+        {
+            "format": "retirement",
+            "children": [
+                {
+                    "name": "TRS",
+                    "value": 30200.0
+                }
+            ]
+        },
+        {
+            "format": "savings",
+            "children": [
+                {
+                    "name": "B Sav",
+                    "value": 4725.36
+                },
+                {
+                    "name": "D Sav",
+                    "value": 383.46
+                },
+                {
+                    "name": "Joint",
+                    "value": 20018.0
+                }
+            ]
+        }
+    ]
+}
